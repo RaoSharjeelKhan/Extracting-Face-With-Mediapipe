@@ -14,5 +14,4 @@ This project uses Mediapipe's face mesh model and selfie segmentation to extract
 
 ## Installation
 1. Clone the repository: git clone https://github.com/RaoSharjeelKhan/Extracting-Face-With-Mediapipe.git
-2. Navigate to the project directory: cd your-repo
-3. Install the required dependencies: pip install -r requirements.txt
+2. Install the required dependencies: pip install -r requirements.txt
